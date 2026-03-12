@@ -83,6 +83,7 @@ This repository may include tools built with:
 ---
 
 ## 📂 Example Repository Structure
+```
 stock-market-tools/
 │
 ├── indicators/
@@ -102,7 +103,7 @@ stock-market-tools/
 │ ├── signal_scanner.py
 │
 └── README.md
-
+```
 
 ---
 
